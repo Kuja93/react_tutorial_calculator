@@ -54,7 +54,6 @@ class App extends Component {
         return (
             <div>
                 <div className="calculator-body">
-                    <h1>Cooking Da Books Calculator</h1>
                     <ResultComponent result={this.state.result}/>
                     <KeyPadComponent onClick={this.onClick}/>
                 </div>
