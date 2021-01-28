@@ -1,0 +1,15 @@
+@media only screen and (max-width: 750px) {
+
+  button {
+    width: 62px;
+  }
+
+  .calculator-body {
+    width: 250px;
+  }
+
+  .result {
+    width: 235px;
+    margin: 0 0 5px 0;
+  }
+}
